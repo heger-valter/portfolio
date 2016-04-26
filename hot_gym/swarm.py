@@ -15,7 +15,7 @@ def swarm(inputFile):
 	permutations_runner.runWithConfig(
 		SWARM_DESCRIPTION,
 		{"maxWorkers": 1, "overwrite": True},
-		outputLable= "rec_center",
+		outputLabel = "rec_center",
 		outDir	=swarmWorkDir,
 		permWorkDir=swarmWorkDir
 	)
