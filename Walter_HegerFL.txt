@@ -1,0 +1,97 @@
+﻿
+
+Walter Heger
+10415 Canary Isle Dr
+New Tampa, FL  33647-2713
+901 492-1038
+heger_walter@yahoo.com
+Work Experience
+Java Programmer
+4/2012-11/2023, FedEx Services-Automation, Memphis, TN
+* Write SW for In-flight Shipping Services and Policy Grid as part of CSHP, the central shipping engine.  Developed code for FedEx tools to monitor status and volume used by services.  Integrated a predictive modeler which would estimate daily loads based on historical data patterns.  I wrote 10KLOCs in 1 year for the GUI for Policy Grid tool in Java & SWT. SVN, IceFaces, RH Linux bash, WebServices via WebLogic, DOM, SOAP, Rest, JUnit. Ant, Maven, Gradle, Apache Tomcat, SpringBoot/Thymeleaf.  Oracle & Teradata DBs.
+
+DotNet Developer
+2/2010-3/2012  DealerTrack.  Lake Success, NY & Memphis, TN
+* Provided software and technical support (real time bug fixes) for auto loan industry on behalf of several large banks working for major auto franchises.  Responsible for all aspects of software development based on customer requirements and sales opportunities.  
+C++, C#.Net, WinForms, MS-SQL.
+
+Contract Programmer C# & VB  ASP.Net  and DBA
+9/2008 – 12/2008   Relocation Management Worldwide, Memphis, TN
+    • Developed new code for website tied to a database.  Tracked down and fixed problems for web apps and database.  IIS, C#.Net, VB.Net, MS-SQL Server (stored procedures).
+Contract Programmer
+5/2008-7/2008.  JDR at TopRx, Bartlett, TN
+    • Maintained and enhanced online shopping cart for handheld application.  JEE EJB, Eclipse, Linux, JSP, JBoss, Ant, Hibernate, XML, MS-SQL Server, SVN.
+Sr. Software Developer
+8/2007-1/2008.  Morgan-Keegan/Regions Bank, Memphis, TN
+    • Wrote accounting and pricing software for Fixed Income Market Research’s eFolio (a web service) used by outside clients to value their market positions using Microsoft C#.Net & VB.Net, ASPX.  Tuned MS SQL Server indices & wrote stored procedures.
+Web Sphere/IBM Content Manager/ Web Admin
+2/2007-7/2007.  American Board of Pediatrics, Chapel Hill, NC
+    • Maintained, resolved and implemented issues for website.  Tracked down problems with Java, JavaScript, JSP, WAS6, DB2, AS400, SVN.
+
+
+Contract Programmer
+9/2005 - 9/2006.  Manpower/IBM/Qualex, Durham, NC
+    • Wrote a Model-View-Controller GUI for parsing a proprietary message queue. Developed, tested and debugged problems for an inventory control system in response to customer support requests.  Wrote HTTP requests using WinInet and parsed responses.   Understand web logic.  UML, C/C++, C#, Java, MFC, XML, SQL, SQC, DB2, Apache Tomcat. MS DevStudio.
+
+Programmer
+4/2005 - 6/2005. Synigent at WorldAccess, Richmond, VA
+    • Interfacing using subclassing (SetWindowHook) to mySabre [Java] class files to capture user input and transfer to WorldAccess applications.  WinXP, JNI, Java RE15, VB, C++ dlls, Win32 API, inter-language data exchange.
+
+Programmer/Supplemental Employee
+2/2003 - 9/2004.  IBM-Watson Research, Yorktown Heights, NY
+    • Developed  BlueGene Tools for electromagnetic analysis of chips and Electrical Interconnect Packaging.  Coordinated project releases and testing.  Touchstone format (scattering parameter) support for various tools and external vendors.  Developed new serialization methods for Back End of Line Modeling tools in XML.  UML, C++, STL, QT, Perl, and Linux.
+
+Vice President
+6/2002 - 2/2003  Mortgage Industry Advisory Corporation, NYC, NY
+    • Developed tools for mortgage brokers at the 12 top-tier US banks for mortgage valuations.  Integrated and modified software (skewing) for modeling interest rate models (Black-Derman-Toy) and prepayment models with WinOAS (Option Adjusted Spread).  Read data (Mortgage Industry Means) from MS Access database and wrote XML formed files for use in the hedging market. (C++, SQL, MS Access).  Collaborated with outside vendors (Blackrock, Andrew Davidson, Bloomberg, Bankware, and Goldman-Sacks) for system integration.
+
+Software Architect
+4/2001 - 5/2002  TechnaSales, (offsite)
+    • Translated CAD data into STEP, IGES, and third-party vendor formats for collaborative engineering products that allow generation of data on client platform. Researching literature of topological operations from Constructive Solid Geometry to Boundary Representation. Alone, implemented core kernel. Project cost estimation, vendor evaluation, resource planning, cost negotiation, and management. Reverse engineered data of competing products. MS-Windows. VB.Net, C++, C# .Net, UML.
+
+Contractor
+11/1999 - 4/2001 L&A at IBM Watson, Hawthorne, NY
+    • Media Production Suite project entails capturing an episode of a [CNN] broadcast, digitizing it into MPEG-2 format, running the sound through ViaVoice to create an index of keywords, and storing the video and associated text into IBM-DB2 (r.7) using Content Manager (a.k.a. Digital Library). Diagnosed and integrated hardware and coded software for data mining (of rich media, BLOBs) using Virage's video and audio logger in a client (Win)-server (AIX) environment. Resolved critical issues on disparate platforms, releases and configurations. My direct efforts at client site before a major release closed a $2M deal. (SQL, DB2, MS-IIS, Apache, IBM's Xerces XML parser, IBM-WebSphere & VideoCharger).
+
+
+
+Contractor
+4/1997 - 1/1999  L&A at IBM Watson, Hawthorne, NY
+    • Developed software for "award winning" application, HotMedia, an authoring tool for Internet based viewing of panoramic images. Enhanced capabilities to share data and work cooperatively with Adobe PhotoShop using Plugin and ActiveX technology. Maintained website and resolved synchronization issues for E-Commerce applications and web advertisement. Worked with TCP/IP to enhance security of packet transmissions.  Provided evaluation of concepts to Director of Technology.(MSVC, HTML, Java, JavaScript, Internet Explorer, Netscape Navigator, Authenicode, Lotus Go Server).
+
+Software Consultant
+9/1994 - 4/1997  Intergraph Corp., Huntsville, AL
+    • Integrated and developed 3rd party graphics applications based on ACIS into a COM/OLE environment.  Designed and wrote a delta state manager which would maintain a cache of 3D views for an assembly of ACIS CAD. The design of the DSM was implemented as an OLE server to allow other third-party applications to control our object.  Evaluated outside ($100K) vendor tools for adequacy and functionality.(MSVC++, OLE, Windows NT & 95, MFC.)
+
+Senior Engineer
+1/1993 - 10/1993  Raytheon E-Systems, St. Petersburg, FL
+    • (Global Positioning Systems)  Architected algorithms and wrote pseudo-code for flexibility, modularity, and performance issues of GPS receiver. Researched literature and performed trade-off studies. Investigated off-the-shelf OSs and ADA compilers for use in a real-time embedded application with a DSP.  Worked with communications protocols. Debugged and enhanced currently existing programs. Researched control theory problems, Kalman Filters, navigation algorithms, and software systems engineering issues. (MS FORTRAN, MS C, CodeView)
+
+Software Engineer
+9/1992 - 12/1992  Mitsubishi Horizon Labs, Cambridge, MA
+    • Wrote 50 pages (2500 lines) of code to perform graphics hidden line removal on a 3D model using a rapid prototyping approach. Integrated, documented, and tested software with a currently existing CAD package and X-Lib using object-oriented methodologies.  Used fuzzy logic to decide difficult cases. .(C++, GCC, Sparc)
+
+Contractor
+3/1992 - 8/1992  Strong Financials, Belmont, MA
+    • Ported code to X-Windows and developed new code for Telerate, a financial trade-trend analysis  [of stock prices] application for financial analyst.  Developed front-end analysis GUI tools to allow placement of common market trends.  Unix, C with Objects.
+
+Software Engineer
+7/1991 - 2/1992  Parametric Technologies Corporation, Waltham, MA
+    • Wrote 3D solid modeling software to import CATIA database into Pro/Engineer. Wrote functionality to calculate minimum radius of curvature, maximum dihedral angle between surfaces along edge, and combined Bezier splines. (C, UNIX, HP 9000/700, Pro/Engineer)
+
+Software Engineer
+2/1989 - 4/1991  Raytheon, Wayland, MA
+    • * Developed real-time software to schedule use of phased antenna array radar and maintain database and files of tasks.   * Designed, coded, tested, debugged, and integrated a 300 page program with numerous complicated requirements. * Developed specified test drivers to support above.
+
+Associate Staff
+2/1987 - 2/1989  MIT Lincoln Labs, Lexington, MA
+    • * Developed simulation software to test algorithms and concepts for ECCM-radar applications. Implemented correlations of time difference of arrival techniques and low probability of intercept signals (-10dB) detection algorithms in the time-bandwidth domain.
+
+Education
+
+McGill U., Montreal, Quebec, Canada
+    • Master's Degree, Applied Mathematics.
+    • Bachelor's Degree,  Mathematics.
+
+http://wheger.tripod.com/whres.doc
+
