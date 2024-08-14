@@ -1,0 +1,85 @@
+﻿WALTER HEGER
+Germantown, Tennessee 38139 || (901) 492-1038 || heger_walter@yahoo.com || http://www.linkedin.com/in/hegerwalter 
+
+Summary	
+
+A highly experienced and versatile software developer, with an extensive background in Java, SQL, C++, and C#.NET across multiple platforms and applications. Leverages expertise in 3D graphics, electromagnetic modeling, and financial modeling while contributing to innovative solutions. Proven proficiencies in various technologies, including Spring Boot Thymeleaf, WebLogic, ICEfaces, Linux, and XML. Utilizes skills to develop cutting-edge software, create impactful solutions, and drive technological advancement in a dynamic work environment. Strong capacity for problem-solving, creative thinking, and a detail-oriented approach to optimize software development processes. A dedicated team player, with excellent communication and collaboration skills, known for adapting quickly to diverse projects and environments to achieve exceptional results.
+
+
+Core Competencies	
+
+3D Graphics and Display
+C++
+Oracle DB
+Electromagnetic Modeling
+Financial Modeling
+Java / Spring Boot / Thymeleaf
+Linux
+MS-Windows
+Object-Oriented Programming
+Real-Time Systems and Telecommunications
+Simulation, Modeling, Algorithms
+JEE / WebLogic, ICEfaces
+XML
+Git / SVN
+
+Experience	
+
+FEDEX 	Memphis, Tennessee
+Software Developer	2012-2023
+
+    • Wrote software for In-Flight Shipping Services and Policy Grid as part of central shipping engine. Developed code for FedEx Tools to monitor status and volume used by services. 
+    • Wrote 10KLOCs in one year for GUI for Policy Grid tools in Java and SWT, Git, ICEfaces, RH Linux Bash, WebServices via WebLogic, DOM, SOAP, JUnit, Ant, and Gradle.
+    • Developed Spring Boot code for tools to monitor status and volume used by analysts. 
+    • Wrote Splunk scripts to collect and display statistical metrics. 
+    • Integrated with machine learning software to identify and track patterns. 
+    • Wrote 10KLOCs in one year for GUI for Policy Grid tool in Java and SQL, SVN, ICEfaces, Linux Bash, WebServices via WebLogic, DOM, Selenium, Ant, Maven, Git, and Spring Boot and Thymeleaf. 
+    • Developed app that allowed business analysts to quickly find information about status of package, tracking, and rating information. 
+
+
+Additional Experience	
+
+DEALERTRACK, Lake Success, New York, and Memphis, Tennessee, .NET Developer, 2010-2012. Provided software and technical support (real-time bug fixes) for auto loan industry on behalf of several large banks working for major auto franchises. Oversaw all aspects of object-oriented software development, based on customer requirements and sales opportunities. 
+
+RELOCATION MANAGEMENT WORLDWIDE, Memphis, Tennessee, Contract Programmer and DBA, 2008. Developed new code for website tied to database. Tracked down and fixed problems for web apps and database (IIS, C#.NET, VB.NET, and MS-SQL Server [stored procedures]).
+
+JDR (at TOPRX), Bartlett, Tennessee, Contract Programmer, 2008. Maintained and enhanced online shopping cart for handheld application (JEE EJB, Eclipse, Linux, JSP, JBoss, Ant, Hibernate, XML, MS SQL Server, and SVN).
+
+MORGAN-KEEGAN / REGIONS BANK, Memphis, Tennessee, Senior Software Developer, 2007-2008. Wrote accounting and pricing software for Fixed-Income Market Research's eFolio (web service) used by outside clients to value their market positions, using Microsoft C#., NET and VB.NET, and ASPX. Tuned MS SQL Server indices and wrote stored procedures.
+
+AMERICAN BOARD OF PEDIATRICS, Chapel Hill, North Carolina, WebSphere / IBM Content Manager / Web Administrator, 2007. Maintained, resolved, and implemented issues for website. Tracked down problems with Java, JavaScript, JSP, WAS6, DB2, AS/400, and SVN.
+
+MANPOWER / IBM / QUALEX, Durham, North Carolina, Contract Programmer, 2005-2006. Wrote Model-View-Controller GUI for parsing proprietary message queue. Developed, tested, and debugged problems for inventory control system in response to customer support requests. Wrote HTTP requests, using WinInet and parsed responses. Understood WebLogic, UML, C / C++, C#, Java, MFC, XML, SQL, SQC, DB2, Apache Tomcat, and MS DevStudio.
+
+SYNIGENT (at WORLDACCESS), Richmond, Virginia, Programmer, 2005. Interfaced, using subclassing (SetWindowHook) to mySabre (Java) class files to capture user input and transfer to WorldAccess applications, WinXP, JNI, Java RE15, VB, C++ DLLs, Win32 API, and inter-language data exchange.
+
+IBM-WATSON RESEARCH, Yorktown Heights, New York, Programmer / Supplemental Employee, 2003-2004. Developed BlueGene Tools for electromagnetic analysis of chips and Electrical Interconnect Packaging. Coordinated project releases and testing. Developed new serialization methods for back end of line modeling tools in XML, UML, C++, STL, QT, Perl, and Linux.
+
+MORTGAGE INDUSTRY ADVISORY CORPORATION, New York, New York, Vice President, 2002-2003. Developed tools for mortgage brokers at 12 top-tier U.S. banks for mortgage valuations. Integrated and modified software (skewing) for modeling interest rate models (Black-Derman-Toy) and pre-payment models with Win Option-Adjusted Spread (OAS). Read data (mortgage industry mean) from MS Access database and wrote XML-formed files for use in hedging market (C++, SQL, MS Access). Collaborated with outside vendors (BlackRock, Andrew Davidson, Bloomberg, BankWare, and Goldman Sachs) for system integration.
+
+TECHNASALES, Chicago, Illinois (Remote), Software Architect, 2001-2002. Translated CAD data into STEP, IGES, and third-party vendor formats for collaborative engineering products that allowed generation of data on client platform. Researched literature of topological operations from constructive solid geometry to boundary representation, Alone, implemented core kernel. 
+
+L&A (at IBM WATSON), Hawthorne, New York, Contractor, 1999-2001. Diagnosed and integrated hardware and coded software for data mining (of rich media, BLOBs), using Virage's video and audio logger in client (Win)-server (AIX) environment. Resolved critical issues on disparate platforms, releases, and configurations. 
+
+L&A (at IBM WATSON), Hawthorne, New York, Contractor, 1997-1999. Developed software for award-winning application, HotMedia, authoring tool for Internet-based viewing of panoramic images. Enhanced capabilities to share data and work cooperatively with Adobe Photoshop, using plug-in and ActiveX technology. 
+
+INTERGRAPH CORPORATION, Huntsville, Alabama, Software Consultant, 1994-1997. 
+
+RAYTHEON E-SYSTEMS, St. Petersburg, Florida, Senior Engineer, 1993.
+
+MITSUBISHI HORIZON LABORATORIES, Cambridge, Massachusetts, Software Engineer, 1992.
+
+STRONG FINANCIALS, Belmont, Massachusetts, Contractor, 1992.
+
+PARAMETRIC TECHNOLOGIES CORPORATION, Waltham, Massachusetts, Software Engineer, 1991-1992.
+
+RAYTHEON, Wayland, Massachusetts, Software Engineer, 1989-1991.
+
+MIT LINCOLN LABORATORIES, Lexington, Massachusetts, Associate Staff, 1987-1989.
+
+
+Education	
+
+MCGILL UNIVERSITY, Montreal, Quebec, Canada
+Master's Degree, Applied Mathematics
+Bachelor's Degree, Mathematics

@@ -1,0 +1,5 @@
+Dear Sir/Madame:
+I am currently seeking employment as a Software Engineer. I have  years of software development experience on a variety of applications, platforms, and languages. I am looking to continue working using my Java, SpringBoot, Thymeleaf, IceFaces, WebLogic, Oracle, CI/CD, Cloud and e-commerce experience. 
+I had the opportunity to be involved in the entire spectrum of a project from beginning to end. I have presented ideas in initial design review meetings, created flow charts, drew state diagrams, provided detailed documentation, wrote pseudo-code which was reviewed during group review, wrote executable code which was also peer-reviewed, wrote batch test code to demonstrate the functionality of various subroutines, helped isolate and debug code during integration testing, and helped verify customer sell-off.  I have developed software using Waterfall, Agile/Scrum and rapid prototyping methods.  I have most recently worked at FedEx in a large regulated enterprise environment.
+Sincerely,
+Walter Heger
