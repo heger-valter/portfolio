@@ -1,9 +1,15 @@
-﻿I use to work in Vector Hidden Line Removal algorithms.
+﻿My work in Vector Hidden Line Removal algorithms.
 http://wheger.tripod.com/vhl
 
-I have written algorithms to convert Constructive Solid Geometry to Boundary Representation in STEP file format
+My algorithms to convert Constructive Solid Geometry to Boundary Representation in STEP file format
 https://github.com/heger-valter/CAD/blob/master/STEP/StepSer.cpp
 
 A synopsis of my NuPIC involvement can be found at 
 http://wheger.tripod.com/nupic
 https://www.youtube.com/watch?v=rTII4pDnrVc
+
+My thesis
+http://wheger.tripod.com/thesis/htm/thesis.htm
+
+This document can be found at
+https://github.coim/heger-valter/portfolio/blob/master/whportfolio.txt
