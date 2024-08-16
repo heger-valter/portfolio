@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=rTII4pDnrVc
 My thesis
 http://wheger.tripod.com/thesis/htm/thesis.htm
 My Resume
-https;//github.com/heger-valter/portfolio/blob/master/heger_walter_resume.txt
+https;//github.com/heger-valter/portfolio/resumes/blob/master/heger_walter_resume.txt
 
 This document can be found at
-https://github.coim/heger-valter/portfolio/blob/master/whportfolio.txt
+https://github.coim/heger-valter/portfolio/resumes/blob/master/whportfolio.txt
