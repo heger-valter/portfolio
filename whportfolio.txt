@@ -1,4 +1,4 @@
-﻿My work in Vector Hidden Line Removal algorithms.
+﻿blob/master/STEP/StepSer.cppblob/master/STEP/StepSer.cppMy work in Vector Hidden Line Removal algorithms.
 http://wheger.tripod.com/vhl
 
 My algorithms to convert Constructive Solid Geometry to Boundary Representation in STEP file format

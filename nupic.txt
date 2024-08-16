@@ -1,0 +1,76 @@
+
+
+NuPIC: Numenta Platform for Intelligent Computing.
+
+	The explosive growth of big data in the last few years inspired parallel interest in machine learning algorithms which are able to sift through the data looking for patterns and extract information.  
+
+	Hierarchal Temporal Memory (HTM) Cortical Learning Algorithm (CLA) was developed by Jeff Hawkins and others [1], funded by his previous start-ups, PalmPilot and HandSpring.  Earlier in his career, Hawkins wanted to study neurobiology and build computers mimicking the architecture of the mammalian neocortex.  Unfortunately, Hawkins was unable to find research support in that area, so worked as an engineer and entrepreneur in the field of hand-held devices.
+	The human neocortex is about the size of a dinner table cloth and is rumpled up on the top layer of the brain.  It has about 10^8 neurons.  At a microscopic level, there are about 4 primary layers of cellular clusters.  This pattern replicates itself and seems to be uniform regardless of the sensors or localization.  This model of the neocortex is represented as a data structure of linked nodes consisting of 4 layers.  The bottom layer represents the sensor input feeds and propagates information up the next higher layer.  The middle two levels propagate information up and down to interconnected nodes.  However, each cluster is only connected to 3% of the clusters in the above and below layers.  This interconnectedness is called the Sparse Distributed Representation.  The highest level makes classification decisions.  Hawkins refers to this data structure as Hierarchal Temporal Memory.  
+  Hawkins 2004 [2]
+This data representation detects patterns in time and space.
+
+	Since the publication of On Intelligence, HTM has progressed to include the idea of "swarming", which is an idea where formulations of the state are tried and subsequently discarded.  This is an evolution algorithm, which chooses good fitting candidates and discards inappropriate ones.  At each stage, this swarming process is repeated, resulting in better information representational fits after each stage.
+
+	This seems to be common approach which I have read in Marvin Minsky's book "Society of the Mind" in 1987 and in the neural networks algorithms which arose during that time.  Recently, Hawkins makes the claim that within 5 years [6], this approach will give rise to true computer intelligence.  In order to effectively implement the data structures, Hawkins has secured DARPA funding to build specialized processors which implements this model in hardware.
+
+	As there is completive pressure from Google's highly proprietary "Deep Mind", Numenta decided to share the algorithm with the open source community under the GNU Public License, so that others may contribute to the development.  Numenta is seeking new applications and testers who can try and extend this approach to other problem domains.  Thrice a year, Numenta holds a weekend long Hackathon in Redwood, CA.  Interesting applications are featured on YouTube.  Numenta holds an online weekly office hour discussion of progress contributed to the repository.  Hawkins regularly attends these meetings and contributes his thoughts on the current state of progress.  Hawkins alleges that the algorithms on the GitHub site are the same as those used by the company, Numenta.  This approach is motivated by the fact there are lots of issues in the development of this idea which can be explored by a large group of users.  He compares his approach to that used to open source computer technology in the 1980's.  Numenta’ s source code development restrictions are that they are only interested in developing biologically feasible structures.  The source code to these core algorithms is current implemented in Python, Java, and C++ targeted for Linux and Apple [5].  Additional support exist for virtualization and vagrant.
+
+	In my demonstration, I have downloaded the example and ran the sine prediction example [4].  Unfortunately, I did not get as good results are they did, probably because the software has been destabilized through the addition of additional features and capabilities.  Maybe my evolution algorithm did not generate sufficiently suited candidates.  See comments regarding this at http://lists.numenta.org/pipermail/nupic_lists.numenta.org/2013-June/000327.html
+
+	Numenta’ s commercial offerings marketed as Grok monitors network traffic and detects anomalies in usage patterns used to indicate health and fraud as shown in  http://numenta.com/#applications
+
+
+	Due to my previous job as a "quant", I also tried running these algorithms on stock prices.  Here is an example of trying to estimate FedEx's stock price over the years (http://finance.yahoo.com/).  
+
+I plan on correlating FDX to world trade statistics (https://www.census.gov/foreign-trade/balance/c5700.html
+https://www.census.gov/foreign-trade/balance/country.xlsx) to provide additional input.
+
+	For the sake of completeness, you can look at alternate approaches to machine learning algorithms [7].
+
+References:
+[1]	On Intelligence, Jeff Hawkins, Times Books, 2004.  
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=http%3A%2F%2Fordorica.org%2Fsystem%2Febooks%2FOn%2520Intelligence%2520-%2520Jeff%2520Hawkins.pdf&ei=Nwq2VL_pL8WnNv_egrAD&usg=AFQjCNGvRwMTienBZ_ginTsIX0OP1jP09w&sig2=oY2J5BLwrwslD6Ar2KUlHw
+	
+[2]	White Paper by Hawkins 	http://numenta.org/resources/HTM_CorticalLearningAlgorithms.pdf
+
+[3]	http://en.wikipedia.org/wiki/Numenta
+
+[4]	Cortical Learning Algorithm Tutorial: CLA Basics - YouTube  by Rahul Agarwal
+	https://www.youtube.com/channel/UC8-ttzWLgXZOGuhUyrPlUuA
+
+	https://www.youtube.com/watch?v=z6r3ekreRzY 
+	https://www.youtube.com/watch?v=nBYddmFg4nQ 
+	https://www.youtube.com/watch?v=iXIOwUnu0X0 
+	https://www.youtube.com/watch?v=3gjVVNPnPYA
+
+	The videos on youtube are the most up to date:
+	https://www.youtube.com/watch?v=2D_CqwdK3uY
+	https://www.youtube.com/watch?v=xYPKjKQ4YZ0
+	https://www.youtube.com/watch?v=1fU2Mw_l7ro
+	https://www.youtube.com/watch?v=S-0thrzOHTc
+	https://www.youtube.com/watch?v=BCwOgbSSDM4
+	https://www.youtube.com/watch?v=KuFfm3ncEwI
+	https://www.youtube.com/watch?v=I5lSEHvngaI
+	https://www.youtube.com/watch?v=OS55dojA-PY
+	https://www.youtube.com/watch?v=MwjITkKtZw0
+	https://www.youtube.com/watch?v=IOkiFOIbTkE
+	https://www.youtube.com/watch?v=izO2_mCvFaw
+	http://www.forbes.com/sites/anthonykosner/2014/12/29/tech-2015-deep-learning-and-machine-intelligence-will-eat-the-world/3/ 
+
+[5]	https://github.com/numenta/nupic/wiki
+
+[6]	google: numenta hawkins
+	https://numenta.org
+	https://twitter.com/numenta
+
+[7]	Prof Ng's "Machine Learning" lectures on https://www.coursera.org/
+
+
+Presented at 	http://www.memphisjug.org/
+by Walter Heger Jan 15, 2015.  18:30
+Copies of this presentation are at 
+http://wheger.tripod.com/nupic/nupic.rtf
+
+
+mailto:	
+
