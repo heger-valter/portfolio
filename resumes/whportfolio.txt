@@ -1,4 +1,7 @@
-﻿blob/master/STEP/StepSer.cppblob/master/STEP/StepSer.cppMy work in Vector Hidden Line Removal algorithms.
+Step Sample code
+https://github.com/heger-valter/CAD/blob/master/STEP/StepSer.cpp
+
+My work in Vector Hidden Line Removal algorithms.
 http://wheger.tripod.com/vhl
 
 My algorithms to convert Constructive Solid Geometry to Boundary Representation in STEP file format
@@ -10,8 +13,9 @@ https://www.youtube.com/watch?v=rTII4pDnrVc
 
 My thesis
 http://wheger.tripod.com/thesis/htm/thesis.htm
+
 My Resume
-https;//github.com/heger-valter/portfolio/resumes/blob/master/heger_walter_resume.txt
+https;//github.com/heger-valter/portfolio/blob/master/resumes/heger_walter_resume.txt
 
 This document can be found at
-https://github.coim/heger-valter/portfolio/resumes/blob/master/whportfolio.txt
+https://github.coim/heger-valter/portfolio/blob/master/resumes/whportfolio.txt
